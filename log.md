@@ -14,7 +14,11 @@
 
 **Thoughts** This is considerably easier to understand with a little Java, Python, SAS, etc. under my belt as well. 
 
+### Day 2: 7 January 2018
 
+**Today's Progress**: Halfway through Bootstrap section. I'm a fan so far. No real difficulties, but then again it is mostly following directions so far. 
+
+**Thoughts**: Again, this has been a great choice so far. I want to get going on my Python Masterclass as well. I am thinking I will give this through the first project and then poke into that class next. I finished the free version of codecademy Python; very basic, but gave me the flavor at least. 
 
 ### Template:
 
