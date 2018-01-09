@@ -20,6 +20,12 @@
 
 **Thoughts**: Again, this has been a great choice so far. I want to get going on my Python Masterclass as well. I am thinking I will give this through the first project and then poke into that class next. I finished the free version of codecademy Python; very basic, but gave me the flavor at least. 
 
+### Day 3: 8 January 2018
+
+**Today's Progress**: Through Bootstrap. Today was tougher.
+
+**Thoughts**: Today was harder than the rest. Mostly, however, it was syntax issues, not concepts. That's at least very fixable. I just need to slow down and make sure it is all correct. That's the lesson for today. 
+
 ### Template:
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
