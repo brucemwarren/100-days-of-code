@@ -26,6 +26,14 @@
 
 **Thoughts**: Today was harder than the rest. Mostly, however, it was syntax issues, not concepts. That's at least very fixable. I just need to slow down and make sure it is all correct. That's the lesson for today. 
 
+### Day 4: 9 January 2018
+
+**Today's Progress**: jQuery section is done. Tomorrow begins the real test up to now - projects!!
+
+**Thoughts**: The jQuery section was much easier than Bootstrap. I am familiar with Java, so that might have helped some. But overall I think it is just a matter of being more sure of myself in coding syntax overall. The projects will be where the rubber meets the road, or some other forced metaphor. At the very least, I will have something to commit to Git. 
+
+I did download VS Code as well. I figure it will be helpful in tossing off some other projects that I feel like. Thankfully, I am ahead of the game with school as well. 2018 is under way and well formed so far. 
+
 ### Template:
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
