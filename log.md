@@ -34,6 +34,14 @@
 
 I did download VS Code as well. I figure it will be helpful in tossing off some other projects that I feel like. Thankfully, I am ahead of the game with school as well. 2018 is under way and well formed so far. 
 
+### Day 5: 10 January 2018
+
+**Today's Progress**: I took a light day today. Made some basic progress on the tribute page. 
+
+**Thoughts**: I wanted to spend a little time with the Mrs. and get a few things done. No regrets. Made a very basic start, just the background, title, and subtitle, but a start still. I did cheat. I wasn't sure how the template made their site look like it did, so I peeked at the code and discovered "jumbotron". I am not even counting that as cheating, really, because I still learned. I could have done the same without that, but I preferred the current look. 
+
+**Link to tribute page WIP**: [On CodePen](https://codepen.io/brucemwarren/pen/MrVObQ)
+
 ### Template:
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
