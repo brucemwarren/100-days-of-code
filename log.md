@@ -42,6 +42,14 @@ I did download VS Code as well. I figure it will be helpful in tossing off some 
 
 **Link to tribute page WIP**: [On CodePen](https://codepen.io/brucemwarren/pen/MrVObQ)
 
+### Days 6-8: 11-13 January 2018
+
+**Today's Progress**: Last three days have been spent figuring out various things. Nothing really worth its own update, but a lot of reading on col, which I think I get now, and getting set up on the Python end. 
+
+**Thoughts**: Been figuring things out as I go along. I like how FCC gave me the basics, but a lot was left up to me. I can appreciate how some people would be frustrated, but I have managed to use this to learning new things. Definitely a good exercise. Col will be the death of me, still. Python bootcamp will get rolling on Monday, but I want to get the page done first. 
+
+**Link to tribute page WIP**: [On CodePen](https://codepen.io/brucemwarren/pen/MrVObQ)
+
 ### Template:
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
