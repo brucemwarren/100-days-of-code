@@ -50,10 +50,10 @@ I did download VS Code as well. I figure it will be helpful in tossing off some 
 
 **Link to tribute page WIP**: [On CodePen](https://codepen.io/brucemwarren/pen/MrVObQ)
 
-### Template:
+### Day 9: 14 January 2018
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: I have finished the FCC Tribute Page. Tomorrow I will begin the Python Bootcamp in earnest. 
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**: I farted around on it too long, but it's done at this point. I am not completely happy, but it is done and I can move on. I will still come back to it and see about tweaks that I can practice with. Looking forward to getting a little Python in again. I want to get through the basics before I head back into FCC again, to keep it fresh and be able to alternate. 
+
+**Link to tribute page**: [On CodePen](https://codepen.io/brucemwarren/pen/MrVObQ)
