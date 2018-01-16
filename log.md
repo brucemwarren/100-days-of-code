@@ -57,3 +57,9 @@ I did download VS Code as well. I figure it will be helpful in tossing off some 
 **Thoughts**: I farted around on it too long, but it's done at this point. I am not completely happy, but it is done and I can move on. I will still come back to it and see about tweaks that I can practice with. Looking forward to getting a little Python in again. I want to get through the basics before I head back into FCC again, to keep it fresh and be able to alternate. 
 
 **Link to tribute page**: [On CodePen](https://codepen.io/brucemwarren/pen/MrVObQ)
+
+### Day 10: 15 January 2018
+
+**Today's Progress**: Started on the Python Bootcamp on Udemy; watched lessons on the notebooks and conda.
+
+**Thoughts**: This will follow on the Codecademy free python course I worked through. Hoping to be through the crash course review by the end of this week and start on Numpy over the weekend. I will work on the portfolio page on the side as well, but I want to do some reading on best practices, etc. 
