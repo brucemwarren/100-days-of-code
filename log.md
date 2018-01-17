@@ -63,3 +63,10 @@ I did download VS Code as well. I figure it will be helpful in tossing off some 
 **Today's Progress**: Started on the Python Bootcamp on Udemy; watched lessons on the notebooks and conda.
 
 **Thoughts**: This will follow on the Codecademy free python course I worked through. Hoping to be through the crash course review by the end of this week and start on Numpy over the weekend. I will work on the portfolio page on the side as well, but I want to do some reading on best practices, etc. 
+
+### Day 11: 16 January 2018
+
+**Today's Progress**: Python Crash Course Lectures 1 & 2
+
+**Thoughts**: Great review, moving at a good pace. I didn't know before that you can use print("this is {} and this is {}".format(one, two)) and have the same result as print("this is %s and this is %s"(one, two)). Not sure one is better than the other, other than the format allows for defining variables in the {} so order is taken out of the equation. Good tip. Remainder of the crash course and exercises, with luck, tomorrow.
+
