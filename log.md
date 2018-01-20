@@ -66,7 +66,13 @@ I did download VS Code as well. I figure it will be helpful in tossing off some 
 
 ### Day 11: 16 January 2018
 
-**Today's Progress**: Python Crash Course Lectures 1 & 2
+**Today's Progress**: Python Crash Course lectures 1 & 2
 
 **Thoughts**: Great review, moving at a good pace. I didn't know before that you can use print("this is {} and this is {}".format(one, two)) and have the same result as print("this is %s and this is %s"(one, two)). Not sure one is better than the other, other than the format allows for defining variables in the {} so order is taken out of the equation. Good tip. Remainder of the crash course and exercises, with luck, tomorrow.
 
+### Day 12: 17 January 2018
+### Day 13: 19 January 2018
+
+**Today's Progress**: Remaining Python Crash Course lectures
+
+**Thoughts**: Not much going on these two days (with a zero day, to borrow a hiking term, in the middle). Just finished the review. Will work on exercises this weekend, around my actual homework. If not by then, then by Monday. I'm not going to stress on this if my actual schoolwork will suffer. I already missed a minor thing and that can't become a habit.
