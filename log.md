@@ -76,3 +76,7 @@ I did download VS Code as well. I figure it will be helpful in tossing off some 
 **Today's Progress**: Remaining Python Crash Course lectures
 
 **Thoughts**: Not much going on these two days (with a zero day, to borrow a hiking term, in the middle). Just finished the review. Will work on exercises this weekend, around my actual homework. If not by then, then by Monday. I'm not going to stress on this if my actual schoolwork will suffer. I already missed a minor thing and that can't become a habit.
+
+### Day 13, Part Deux
+
+**Additional Progress**: I finished the exercises. This weekend I at least start on NumPy.
