@@ -80,3 +80,11 @@ I did download VS Code as well. I figure it will be helpful in tossing off some 
 ### Day 13, Part Deux
 
 **Additional Progress**: I finished the exercises. This weekend I at least start on NumPy.
+
+### Day 14: 20-22 January 2018
+
+**Today's Progress**: Rough framing of the portfolio page.
+
+**Thoughts**: Didn't have a lot of time this weekend. Some was school, some was kids, but the bottom line is I did about a day's worth of work in the last few. Progress was made on the portfolio; got some tips from Mark Snow's tutorials and some CSS/Bootstrap from searches. So far, so good. 
+
+**Link to WIP**: [Portfolio Page](https://codepen.io/brucemwarren/pen/goqvNP)
