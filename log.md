@@ -88,3 +88,9 @@ I did download VS Code as well. I figure it will be helpful in tossing off some 
 **Thoughts**: Didn't have a lot of time this weekend. Some was school, some was kids, but the bottom line is I did about a day's worth of work in the last few. Progress was made on the portfolio; got some tips from Mark Snow's tutorials and some CSS/Bootstrap from searches. So far, so good. 
 
 **Link to WIP**: [Portfolio Page](https://codepen.io/brucemwarren/pen/goqvNP)
+
+### Day 15: 23 January 2018
+
+**Today's Progress**: Through the NumPy lectures in Python Bootcamp.
+
+**Thoughts**: I really don't mind NumPy or CSS. NumPy seems very useful. Need to go through the exercises next to check my understanding. 
