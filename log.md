@@ -94,3 +94,9 @@ I did download VS Code as well. I figure it will be helpful in tossing off some 
 **Today's Progress**: Through the NumPy lectures in Python Bootcamp.
 
 **Thoughts**: I really don't mind NumPy or CSS. NumPy seems very useful. Need to go through the exercises next to check my understanding. 
+
+### Day 19: 27 January 2018
+
+**Today's Progress**: Tightened up the Tribute Page code, worked through NumPy in my bootcamp, and started to finish my portfolio.
+
+**Thoughts**: Worrying less about daily updates. Just been steady work all around on Python and FCC. I am pleased with the tribute page now that I posted it to the FCC board and got some feedback. Rookie mistakes, stuff that should have been in CSS, things like that. Overall, pleased. 
