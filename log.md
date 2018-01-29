@@ -100,3 +100,11 @@ I did download VS Code as well. I figure it will be helpful in tossing off some 
 **Today's Progress**: Tightened up the Tribute Page code, worked through NumPy in my bootcamp, and started to finish my portfolio.
 
 **Thoughts**: Worrying less about daily updates. Just been steady work all around on Python and FCC. I am pleased with the tribute page now that I posted it to the FCC board and got some feedback. Rookie mistakes, stuff that should have been in CSS, things like that. Overall, pleased. 
+
+### Day 21: 29 January 2018
+
+**Today's Progress**: Finished Portfolio for FCC. Starting on Python pandas.
+
+**Thoughts**: Wow. I am beginning to be sort of impressed with myself here. Going really well and I haven't hit a wall quite yet. I'll take it for sure. I need to remember to put my closing tags in right away, however. It is costing me a lot of time when I forget. 
+
+*Portfolio*: [https://codepen.io/brucemwarren/full/goqvNP/](https://codepen.io/brucemwarren/full/goqvNP/)
