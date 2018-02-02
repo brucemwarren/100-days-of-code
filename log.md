@@ -108,3 +108,9 @@ I did download VS Code as well. I figure it will be helpful in tossing off some 
 **Thoughts**: Wow. I am beginning to be sort of impressed with myself here. Going really well and I haven't hit a wall quite yet. I'll take it for sure. I need to remember to put my closing tags in right away, however. It is costing me a lot of time when I forget. 
 
 *Portfolio*: [https://codepen.io/brucemwarren/full/goqvNP/](https://codepen.io/brucemwarren/full/goqvNP/)
+
+### Day 24: 2 February 2018
+
+**Today's Progress**: Started pandas, worked on JavaScript on fcc.
+
+**Thoughts**: I got laid off on Wednesday, so I haven't done a lot. Obviously, this work becomes more important now, along with having more time for it. Always onward.
